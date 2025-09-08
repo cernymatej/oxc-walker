@@ -5,6 +5,7 @@
     "dev": "node index.js"
   },
   "dependencies": {
-    "oxc-walker": "latest"
+    "oxc-walker": "latest",
+    "zimmerframe": "^1.1.2"
   }
 }
